@@ -1,0 +1,1 @@
+ C:\\Users\\PM\\Desktop\\Project\ Mid_Term\\PlantCare-main\\frontend_flutter\\.dart_tool\\flutter_build\\73348a58bd2b203235b06b466bab89fe\\native_assets.yaml: 
